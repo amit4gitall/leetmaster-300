@@ -38,5 +38,13 @@ This repository contains **300+ LeetCode problems** I’ve solved as part of my 
 - ✅ Bit Manipulation
 - ✅ Math & Miscellaneous
 
+  
+## 🗂️ Repository Structure
 ---
+ 📂 Arrays
+  - 🟢 [TwoSum.java](Arrays/TwoSum.java)
+  - 🟡 [BestTimeToBuySellStock.js](Arrays/BestTimeToBuySellStock.js)
 
+- 📂 Strings
+  - 🟡 [LongestSubstringWithoutRepeatingCharacters.py](Strings/LongestSubstringWithoutRepeatingCharacters.py)
+  - 🟢 [ValidAnagram.java](Strings/ValidAnagram.java)
