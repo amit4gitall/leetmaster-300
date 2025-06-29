@@ -41,3 +41,21 @@ This repository contains **300+ LeetCode problems** I’ve solved as part of my 
 ---
 
 ## 📁 **Repository Structure**
+
+├── 📝 README.md
+├── 📂 Arrays/
+│    ├── ✅ TwoSum.java
+│    └── ✅ BestTimeToBuySellStock.js
+├── 📂 Strings/
+│    ├── ✅ LongestSubstringWithoutRepeatingCharacters.py
+│    └── ✅ ValidAnagram.java
+├── 📂 LinkedLists/
+│    └── ✅ MergeTwoSortedLists.java
+├── 📂 Trees/
+│    └── ✅ BinaryTreeInorderTraversal.java
+├── 📂 DynamicProgramming/
+│    └── ✅ HouseRobber.js
+├── 📂 Graphs/
+│    └── ✅ NumberOfIslands.java
+├── 📂 Backtracking/
+│    └── ✅ Permutations.java
